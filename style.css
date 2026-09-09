@@ -364,3 +364,19 @@ footer p {
     }
 
 }
+
+/* =========================================
+   WHATSAPP
+   ========================================= */
+
+.whatsapp-btn {
+    display: inline-block;
+    margin-top: 10px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
+.location {
+    margin-top: 25px;
+    color: #aaa;
+}
